@@ -18,7 +18,7 @@ You will need to follow the "Getting Started" instructions in the class wiki: ht
 
 Once you have your github account, code editor, and git client installed, follow the instructions on this page and use the assignment url below to complete the assignment: https://github.com/wustlcse104/class-wiki/wiki/Completing-Assignments
 
-**Assignment URL:** https://classroom.github.com/assignment-invitations/4e793304fabee0c9d9a9220194462186
+**Assignment URL:** https://classroom.github.com/assignment-invitations/2ec476e4dc1a745ae2935e95fd48e798
 
 **Submission Requirements**
 * Github Pages Website URL
