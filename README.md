@@ -14,9 +14,9 @@ There are bonus points available for this assignment:
 * Move the text to the center of the page - 1 bonus point
 * Add a meaningful photo (of you, your pet, a favorite hobby, your hometown, etc) - 3 bonus points
 
-You will need to follow the "Getting Started" instructions in the class wiki: https://github.com/wustlcse104/class-wiki/wiki/Getting-Started
+You will need to follow the "Getting Started" instructions in the class wiki: https://github.com/wustlcse204/class-wiki/wiki/Getting-Started
 
-Once you have your github account, code editor, and git client installed, follow the instructions on this page and use the assignment url below to complete the assignment: https://github.com/wustlcse104/class-wiki/wiki/Completing-Assignments
+Once you have your github account, code editor, and git client installed, follow the instructions in Canvas to submit your work.
 
 **Assignment URL:** https://classroom.github.com/assignment-invitations/2ec476e4dc1a745ae2935e95fd48e798
 
